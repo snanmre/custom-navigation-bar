@@ -1,5 +1,6 @@
 # custom-navigation-bar
 
+Tested on Android 4.4.2
 
 **NOTE THAT** Changes in these files tagged with "[ADD]"
 
