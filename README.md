@@ -29,3 +29,5 @@ Tested on Android 4.4.2
  - Register a broadcast intent receiver in **PhoneStatusBar.java**
  - Then process received intent data
  - Sample: ```mNavBarReceiver``` in **PhoneStatusBar.java**
+
+[//]: # "comment"
