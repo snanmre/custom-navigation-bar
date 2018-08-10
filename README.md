@@ -22,7 +22,8 @@ Tested on Android 4.4.2
 
 # Handling Buttons in Application Level
  - Create a touch listener for the button
- - Then broadcast an intent
+ - Broadcast an special intent
+ - Then in user-level application, register an intent receiver for this action
  - Sample: ```mStandByOnTouchListener``` in **PhoneStatusBar.java**
 
 # Hiding/Showing Navigation Bar or Enable/Disable Buttons
@@ -30,4 +31,3 @@ Tested on Android 4.4.2
  - Then process received intent data
  - Sample: ```mNavBarReceiver``` in **PhoneStatusBar.java**
 
-[//]: # "comment"
